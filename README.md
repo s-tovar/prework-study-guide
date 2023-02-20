@@ -1,8 +1,8 @@
-# UCR Prework Study Guide Webpage
+# UCR Bootcamp Prework Study Guide Webpage
 
 ## Description
 
-This Prework Study Guide is created for new bootcamp students who are going through the Prework  It contains notes on HTML, CSS, Git, and JavaScript.
+This Prework Study Guide is created for new bootcamp students who are going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
@@ -39,4 +39,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
